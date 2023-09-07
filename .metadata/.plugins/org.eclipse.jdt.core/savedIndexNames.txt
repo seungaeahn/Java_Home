@@ -1,4 +1,0 @@
-INDEX VERSION 1.134+/Users/seungae/JAVA_LAB/.metadata/.plugins/org.eclipse.jdt.core
-1865797976.index
-3534364686.index
-3790591636.index
